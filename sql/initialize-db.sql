@@ -1,0 +1,2 @@
+--SQL setup statements goes below
+--example : sql create statements or sql inserts
