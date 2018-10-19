@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# This scripts creates a fresh container everytime the script runs
 set +x
 
 docker kill local-rabbit-mq
